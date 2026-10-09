@@ -1,8 +1,10 @@
 # 🎓 Student Performance Analysis Project
 
-[![Python Version](https://shields.io)](https://python.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![Jupyter](https://shields.io)](https://jupyter.org)
+[Python Version](https://python.org)
+
+[VS code](https://code.visualstudio.com)
+
+[Jupyter](https://jupyter.org)
 
 A comprehensive Data Manipulation and Exploratory Data Analysis (EDA) project focused on analyzing student academic records, evaluating performance trends, and generating insightful data visualizations.
 
@@ -21,24 +23,25 @@ The primary goal of this project is to clean, manipulate, and analyze a dataset 
 ## 📂 Project Structure
 The repository is structured systematically to separate the data manipulation phase from the visualization assets:
 
-STUDENT PROJECT/
+
+```text
+Student-Performance-Analysis/
 │
-├── 📂 Data Manipulation/
-│   ├── 📄 Data_Analysis.ipynb     # Jupyter Notebook for data cleaning & EDA
-│   └── 📊 Student_data.xlsx       # Raw excel dataset
+├── Data Manipulation/
+│   ├── Student_data.xlsx
+│   └── Data_Analysis.ipynb
 │
-├── 📂 Data Visualization/
-│   ├── 🖼️ Attendance Distribution.png
-│   ├── 🖼️ Attendance vs Obtained Marks.png
-│   ├── 🖼️ Average Marks by Program and Year.png
-│   ├── 📄 Charts.ipynb            # Jupyter Notebook for generating visualizations
-│   ├── 🖼️ Gender Distribution.png
-│   ├── 🖼️ Grade Distribution.png
-│   ├── 🖼️ Result Ratio.png
-│   ├── 📊 Student_data.xlsx       # Reference copy of the dataset
-│   └── 🖼️ Students by Program.png
+├── Data Visualization/
+│   ├── Charts.ipynb
+│   ├── Attendance Distribution.png
+│   ├── Attendance vs Obtained Marks.png
+│   ├── Average Marks by Program and Year.png
+│   ├── Gender Distribution.png
+│   ├── Grade Distribution.png
+│   ├── Result Ratio.png
+│   └── Students by Program.png
 │
-└── 📋 README.md                   # Project documentation
+└── README.md
 ```
 
 ---

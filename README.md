@@ -43,7 +43,6 @@ Student-Performance-Analysis/
 │
 │
 └── README.md
-│
 └── requirements.txt
 ```
 

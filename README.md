@@ -41,7 +41,10 @@ Student-Performance-Analysis/
 │   ├── Result Ratio.png
 │   └── Students by Program.png
 │
+│
 └── README.md
+│
+└── requirements.txt
 ```
 
 ---
